@@ -1,1 +1,2 @@
-# etch-a-sketch
+# A simple etch-a-sketch game
+The default size of the grid is 16x16. You can change the size of the grid by entering a number between 16 and 100, prompted by the browser using the Box Count button. the Reset button will reset any coloring to the grid. The Black button will change the color of the grid to black. The Rainbow button will change the color of the grid to a random color. Use your mouse to draw on the grid.
